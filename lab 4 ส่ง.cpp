@@ -43,8 +43,8 @@ int main() {
 
     printf( " \n---------------\n " ) ;
     printf( " Employees ID = %s\n ", ID ) ;
-    printf( " Salary = %d THB ", WorkingHour * Salary * 22 ) ;
+    printf( " Salary = %d THB ", WorkingHour * Salary * 34 ) ;
 
-    printf( "\n\n" ) ;
+    printf( " \n\n " ) ;
     return 0 ;
 }//end function
